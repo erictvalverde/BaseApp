@@ -1,0 +1,13 @@
+{
+  "name": "BaseApp",
+  "version": "1.0.0",
+  "authors": ["Eric Valverde"],
+  "description": "Basic starting point for web app",
+  "keywords": [],
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "~2.2.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "build_dir": "build",
+  "dependencies": {
+    "vendor": [
+      "bower_components/jquery/jquery.min.js"
+    ],
+    "css":[
+      
+    ]
+  }
+}
